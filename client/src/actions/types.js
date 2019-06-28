@@ -1,0 +1,16 @@
+export const SIGN_OUT = 'SIGN_OUT';
+export const AUTHENTICATE = 'AUTHENTICATE';
+export const FETCH_USERS = 'FETCH_USERS';
+export const DELETE_USER = 'DELETE_USERS';
+export const REGISTER = 'REGISTER';
+export const FETCH_PROJECTS = 'FETCH_PROJECTS';
+export const ADD_PROJECT = 'ADD_PROJECT';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
+export const FETCH_OKRS = 'FETCH_OKRS';
+export const ADD_OKR = 'ADD_OKR';
+export const DELETE_OKR = 'DELETE_OKR';
+export const ASSIGN_OKR = 'ASSIGN_OKR';
+export const ASSIGN_PROJECT = 'ASSIGN_PROJECT';
+export const REVOKE_PROJECT = 'REVOKE_PROJECT';
+export const REVOKE_OKR = 'REVOKE_OKR';
+export const FETCH_ASSIGNMENT = 'FETCH_ASSIGNMENT';
